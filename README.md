@@ -234,7 +234,8 @@ scripts/            # Cross-platform build/test/run/download helpers (bash & Pow
 * Model weights are under their respective licenses on Hugging Face / Kaggle.
 
 ---
-
+Recommended download of [gemma3:270m](https://huggingface.co/lmstudio-community/gemma-3-270m-it-qat-GGUF/resolve/main/gemma-3-270m-it-qat-Q4_0.gguf)
+---
 ## References
 
 1. Google — *Introducing Gemma 3* (sizes, capabilities, downloads)
